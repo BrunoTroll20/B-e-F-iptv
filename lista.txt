@@ -1,0 +1,2 @@
+#EXTINF:-1 tvg-logo="http://br.web.img2.acsta.net/pictures/18/04/02/18/56/1249622.jpg" group-title="série", westworld s01e01
+http://cdnfe3.azureedge.net/RCServer11/ondemand/WSTWRLDT01EP01.mp4?attachment=true
